@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "XcfeyBkOVwCiP9c9f3GuGN9JXjTXu8XKuXL9548hmUUBWn3bdHJ+Cpdl4TnKHWbwkIFFs1BM0O491yP2e5+vLQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Senan\\Desktop\\Command-MVVM-Homework-WPF-master\\Command_MVVM Homework\\Command_MVVM Homework.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Senan\\.nuget\\packages\\bogus\\34.0.2\\bogus.34.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
